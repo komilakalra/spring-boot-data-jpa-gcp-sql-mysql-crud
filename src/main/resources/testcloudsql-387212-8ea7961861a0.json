@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "testcloudsql-387212",
+  "private_key_id": "8ea7961861a0fda08ed30bc3b6bf8f467e1f60d6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDDcfwWiTHDesWZ\nc1tVt9SPqcvQjBsHSjHElnix+tXeTnvQEhA8Q1Nuvr+uv3u9ZAMtA8S+f5ik/cUl\nmFm3yYNlVCJQjCjF9Pwu1p5KrB2LDiys8IxFohnB+anxv0+mCb3nvJ+CdaHi5rFK\n5xT9qJ41OyxRorS8VM4ZH2Dpfulr9gnxcsgHlfl0j8LDLSjCA573oUfEiT19P9El\nR9AxopIUHISOPzjnvdF2quPpld+9lbfizEzbWtRDHvcYCLMeL7P6FrIBGa3UlQwI\ned5w6HC3akC47Izm9Z+Ehji/H+WhXzny0NsIYlRYW+HqZ3HZ37+P1Kd6FSmHSyQ3\nsU5BqHLlAgMBAAECggEAF8RJLO5jDEvmMopaHXrc0NmLjOE0uja2BZtssuv3TPDL\nUpqXudRQFYQBqDzlzbqXPkaairXWeJ3ZdwBnTJenME/CWnwoyyXG8uUrW5ZBg3Lm\nUONxk1gqfLGhDmI+y8icfM0tsn4egQqfnaWrIkt6bauz8HtyMgK4C0sLDGnf9b4/\nbIaY4DFaeCYKE33hg48y3BLmWmOjRlP5kmRYGSkmWKonnSUIqlr2gZTpLcBeSRJa\n3qCAppJ8EOEq2WDmj3VJ7Q0DUnkvdkx0yska0qlsWaXKUw773OTxLMDOin07sap5\nLX7C3BsDSOxMyXaSn2A9KiLeiSI8qL7X0mLitoHAYwKBgQD5yARXiN7bNreAiAjo\nX7ye5/JcMjUX4WLqjBnCDlLJf52dPBPb8M2ryBFbPYdRHJB1ESH1le3XblGYLfEc\nLljjUSwC57QnFNR/6NZXjBRytfCjxNLxjwROJycM9ce4WLq/JXJJvDuklPihBA3h\n5p3YhdXUquPuJYZp+x+wa32WAwKBgQDIT6gN4sDcshRifz4cIrdZ5igaxCrAeOv0\nD9vrG7TrvnrQqj6UFx7jzCOWfuAGzRJu4CQDCy7wSrNDj4foY07kgCfAvCD2iSWF\ne4dFkHNV16WnZe6hJUJ5GA1UYToKRgTmek17qtHzdqDbj5+qtbs2MVxDIB25Zh75\nMHO1FKWS9wKBgQCz5Lo70PewKdg/WboQoeLXD3YdsItMh6cWBZEHkglN1ftOItaq\nsONvtMfLTqUGZewkZBJxLWn+nhVl5LCh+z9JeEyaSwYUn4vsE2VL6DdR5ndJe5fx\nIW+YWdpmGx2cR0s4H2AQeuD5x9DJJoJZEB7esoUuhWVjPuNvsM1B4iiwwQKBgQC6\nMYDu11WaT1WvcMNU99giklO4/ZsXqc754Dv1wJ1dfINArt7YXN1ztW9nFqw65ig6\nM9KFmcGZznXvWN1l39mXgKBzAOxK/ZSJDRfiS7FJm9f5UECOPcoaMYdCZdXDcu5f\nJlQbnd7mReCj9k7eKWrJpvwx0QqQKSKlUqpbKcP2ZQKBgFNAAz36vcrGQWWonmfQ\na8LNNdlBJv23sdX357iGpEBuC/LARMMj4FNlTYLIW0o1WaxujwzS82oprkMxGbJo\nIXpRO5PEoFrTyIAp/deJERGRplZe0aB2lVckpUVnSjUwCCgjTUy4PH825BLqYKw5\n5fEumdlcN1WSppnUyoNe5e62\n-----END PRIVATE KEY-----\n",
+  "client_email": "spring-cloudsql-demo@testcloudsql-387212.iam.gserviceaccount.com",
+  "client_id": "113225459770534101019",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/spring-cloudsql-demo%40testcloudsql-387212.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
